@@ -4,7 +4,7 @@ package uk.org.hexsaw.chess;
  * Hello world!
  *
  */
-public class App 
+public class Engine
 {
     public static void main( String[] args )
     {
